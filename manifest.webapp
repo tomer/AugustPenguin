@@ -1,0 +1,27 @@
+{
+  "version": "0.1",
+  "name": "August Penguin",
+  "description": "The annual gathering of the Israeli Free Software community",
+  "launch_path": "index.html",
+  "icons": {
+    "48": "ap_button_48.png",
+    "128": "ap_button_128.png"
+  },
+  "developer": {
+    "name": "Hamakor NPO",
+    "url": "http://hamakor.org.il"
+  },
+  "installs_allowed_from": ["*"],
+  "appcache_path": "cache.manifest",
+  "locales": {
+    "he": {
+      "name": "אוגוסט פינגווין",
+      "description": "הכנס השנתי של קהילת התוכנה החופשית בישראל",
+      "developer": {
+        "name": "עמותת המקור",
+        "url": "http://hamakor.org.il"
+      }
+    }
+  },
+  "default_locale": "en"
+}
